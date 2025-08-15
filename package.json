@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://mohit643.github.io/react-build-test",
+"homepage": "https://mohit643.github.io/go-live-build"
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
